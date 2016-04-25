@@ -1,0 +1,31 @@
+CONICORUM LIBER IV. ll
+
+sint oppositae Β, Θ asymptotaeque KA, ΜΞΝ,
+punctum autem A in angulo ΛΞΝ positum, cb co·
+
+quc contingat AB, secet antem AF, ct puncta con·
+cursus E, Γ punctum cont-nctus Β contineant, sit autem
+FZ:ZE=FA:AE.
+
+demonstrandum, rectam a B nd Z ductam cnm
+sectione Θ concurrere, rectamque a puncto concursus
+ad A ductam sectionem contingere.
+
+ducatur enim a A sectionem contingens ΔΘ, et
+ducta ΘΒ, si fieri potest, per Z ne cadat, sed per H.
+
+itaque [11], 37] ΓΛ : AE=FH ε ΗΕ; quod absurdum
+est3 supposuimus enim, esse FA: ΔΕ = ΓΖ : ΖΕ.
+
+V.
+
+Iisdem positis si A punctum in alterutra asym-
+ptotarum est, recta a B ad Z ducta eidem asymptotae
+parallela erit,
+
+supponantur enim eodem, et punctum A in alterutra
+asymptotarum MN sit. demonstrandum, rectam a Β
+rectae MN parallelum ductam in Z cadere.
+
+ 
+

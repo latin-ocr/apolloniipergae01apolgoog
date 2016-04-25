@@ -1,0 +1,40 @@
+EUTOOII COMMENTARIA IN CONIOA. 283
+
+AB, ponanturque duae rectae inaequales ΔΕ, ΕΖ,
+et EZ ad H producatur, ponaturque ΖΗ = ΛΕ, et
+tota ΕΗ in Θ in duas partes aequales secetur, centrum
+autem circuli sumatur K, et a K ad AB perpen-
+dicularis ducatur et cum ambitu in Λ concurrat, per
+Λ autem rectae AB parallela ducatur AM, productaque
+ΚΑ cum AM in M concurrat, et fiat
+cZ:ZH=AM:MN‚
+sitque Aa⁴=AN‚ ducanturque NK, ΚΞ et pro-
+ducantur, circulusque expletus eas in H, 0 secet,
+duceturque ΟΡΠ.
+quoniam igitur ΖΘ : ZH = Λ Μ : M N, componendo
+est cH:Hz=AN:NM; econtrario
+ΖΗ :Hc=NM :NA
+et ΖΗ :HE =MN ιΝΞ; dirimendo
+ZH22n=NM:Mt7.
+
+et quoniam NA == ΛΞ, communis autem et perpen· ⁴
+
+dicularis ΛΚ, erit etiarn [Elucl. l, 4] K N = K Ξ.
+uerum etiam Κ 0 = Kn3 parallelae igitur sunt Ν Ξ,
+ΟΠ. itaque similes sunt trianguli Κ ΜΝ, OKP et
+ΚΜΞ, ΠΡΚ [Eucl. 1‚29; l, 15]. quare
+KM: KP'= MN: ΡΟ [nuel. Vl, 4].
+est autern etiam ΚΜ :KP = Ma: ΠΡ [ib.]; quare
+etiam Ν Μ : ΡΟ = M Ξε Π P, et permutando
+NM: ME= 0P:P11.
+
+uerum NM:Ma=Hz:zE=AE:Ez et
+
+OP:PH= 0122 ι οΡ>< ΡΠ;
+quare etiam An: ΕΖ = 012²: 0P>< PH. est autem
+ΟΡ >< ΡΠ = A P >< ΡΓ [Eucl. Ill, 35]. ergo
+
+AE: EZ= 0P²:AP><PF.
+
+ 
+

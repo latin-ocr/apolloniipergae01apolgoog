@@ -1,0 +1,40 @@
+EUTOOII COMMENTARIA IN comen. 277
+
+dicularis ducatur ΕΔΖ, et fiai EA: ΔΖ = AB : ΒΓ,
+seceturquc ΕΖ in duas partes aequales, manifestum
+igitur, ei AB=BF et EA=AZ, punctum A esse
+medium reciae EZ, sin ΑΒ>ΒΓ et EA > ΔΖ,
+punctum medium infra A positum esse, sin AB < ΒΓ,
+supra Δ.
+
+nunc antem infra sit positum ut H, ei centro H
+radic ΗΖ circulus describetur, ie igitur aut per
+puncta A,B ueniet aui inira ea ani exire. iarn si per
+puncta A,B uenerit, effectum crit, quod propesitum
+θεὲ, cadat uero extra A, Β, et AB ad utramque
+partem producta cunr ambitu in Θ, Κ concurrat,
+ducanturque ΖΘ, ΘΕ, ΕΚ, ΚΖ, per Β autem rectae
+ΖΚ parallela ducatur MB, reciae ΚΕ autem parallcla
+BA, ducanturque MA, ΑΛ, cae igitur et ipsae rectis
+ΖΘ, ΘΕ parallelae erunt, quia A A = ΔΒ, ΔΘ -- AK,
+et ΖΔΕ ad ΘΚ perpendicularis [Eucl. 1,4]. ei
+quoniam angulus ad K positus rectus est, ei ΜΒ,
+ΒΛ rectis ZK, ΚΕ parallelae, eriietiam angulus ad
+Β pesitus rectus, eadem de causa etiam angulus ad
+A positus rectus est. quare circulus circum MA
+descriptus per A, Β ueniet [Eu01.111,31]. describatur
+ut MAAB. ei quoniam ΜΒ, ΖΚ parallelae sunt,
+erit [Eucl. VI, 4] ZAtAM=KAzAB. ianr eodem
+modo erit KA:AB=EA:AA.¹·) et permutando
+EAzAZ=AAzAM=AB2BE
+
+1) Posi A Λ lin 25 excidieec uidentur haec fere: ἔστιν ἄρα,
+ὥς ἡ ΖΔ πρὸς ΔΜ, ἡ ΕΔ πρὸς ΔΛ.
+
+——-.-.-——-—- . —- .
+
+Wp, corr. Ccmm. 23. MAAB] MAAB Wp, corr. Gcmm.
+25.AB] Β e corr. m. 1 W. ΔΛ] ΑΛ Wp, corr. Comm.
+
+ 
+

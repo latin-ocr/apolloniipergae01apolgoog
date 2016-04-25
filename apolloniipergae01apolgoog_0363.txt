@@ -1,0 +1,42 @@
+aurocn conunurmm nr comcs. 279
+
+et similiter etiam, si circulus circum ΖΕ descriptus
+rectam AB secat, idem demonstrabitur.
+
+Ad prop. LV.
+
+Et in ΑΔ semicirculus describatur ΑΖΔ,
+ad semicirculum autem recta ducatur ΖΗ
+rectae Ac parallelo, quae faciat
+
+ΖΗ2 : ΔΗ ><ΗΑ = ΓΑε2ΑΔ 1 p. 172, 8—12]
+sit ΑΒΓ semicirculus in diametro AF, data autem
+ratio EZ:ZH, et oporteat efficere, quod propositum est.
+
+ponatur ΖΘ = EZ, et ΘΗ in K in duas partes
+aequales secetur, duceturque in semicirculo recta
+aliqua ΓΒ in angulo ΑΓΒ, et ab A centro ad eam
+
+Γ Δ
+
+A M
+ff&
+ΒΗ 1θ
+
+0
+
+perpendicularis ducatur ΛΣ productaque cum ambitu
+in N concurrat, et per N rectae ΓΒ parallela ducatur
+N M3 ea igitur circulum continget [Eucl. Ill, 16 coroll.].
+et fiat ME : EN = ΖΘ : ΘΚ, ponaturque N 0 = EN,
+et ducantur AE, ΛΟ semicirculum in H, P secantes,
+ducaturque ΠΡΔ.
+
+quoniam igitur EN = N 0, communis autem et
+perpendicularis NA, erit ctiam ΛΟ -- Λ E [Eucl. I, 4].
+uerum etiam AH=AP3 quaro etiam reliqua Π O=PE.
+
+In fig. pro Σ hab. E W, pro Π hab. H (hoc corr. ul.
+
+ 
+
